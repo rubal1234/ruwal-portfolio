@@ -1,0 +1,49 @@
+#skill {
+    padding-top: 70px;
+  }
+  
+  #countdown {
+    height: 160px;
+    width: 160px;
+    margin: auto;
+  }
+  
+  svg circle#c2 {
+    stroke: crimson;
+  }
+  
+  svg circle#c3 {
+    stroke: #198051;
+    opacity: 0.3;
+  }
+  
+  svg text {
+    font-family: sans-serif;
+    fill: crimson;
+    font-weight: bold;
+    dominant-baseline: middle;
+    text-anchor: middle;
+    font-size: 12px;
+  }
+  
+  @media only screen and (max-width: 1200px) {
+    #countdown {
+      height: 120px;
+      width: 120px;
+    }
+  }
+  
+  @media only screen and (max-width: 768px) {
+    #countdown {
+      height: 100px;
+      width: 100px;
+    }
+  }
+  
+  @media only screen and (max-width: 576px) {
+    #countdown {
+      height: 80px;
+      width: 80px;
+    }
+  }
+  
