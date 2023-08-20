@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ruwal-portfolio/static/css/main.b4356b4e.css",
-    "main.js": "/ruwal-portfolio/static/js/main.d7c00933.js",
+    "main.js": "/ruwal-portfolio/static/js/main.bb358e52.js",
     "static/js/787.1ed0c42c.chunk.js": "/ruwal-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/user.jpg": "/ruwal-portfolio/static/media/user.ead3aec8b89eb2bd6480.jpg",
     "static/media/sc1.PNG": "/ruwal-portfolio/static/media/sc1.189d691b3fd66c2c4658.PNG",
@@ -9,11 +9,12 @@
     "static/media/img-1.png": "/ruwal-portfolio/static/media/img-1.2b24351366a1375a9105.png",
     "static/media/sc3.PNG": "/ruwal-portfolio/static/media/sc3.528e8b68b019e640cbd0.PNG",
     "static/media/sc9.PNG": "/ruwal-portfolio/static/media/sc9.ebdb4041c52026fde004.PNG",
+    "static/media/sc12.PNG": "/ruwal-portfolio/static/media/sc12.36e1fa18a2fa0115a35e.PNG",
     "static/media/sc4.PNG": "/ruwal-portfolio/static/media/sc4.8e28e555f54e8dfa7cde.PNG",
     "static/media/sc5.PNG": "/ruwal-portfolio/static/media/sc5.863b12e43561229578c1.PNG",
     "static/media/sc2.PNG": "/ruwal-portfolio/static/media/sc2.cd745a9cd115fd4cac2d.PNG",
-    "static/media/sc6.PNG": "/ruwal-portfolio/static/media/sc6.2ba01ee9ca068438f1c9.PNG",
     "static/media/sc11.PNG": "/ruwal-portfolio/static/media/sc11.22e7ac594c5361887a1e.PNG",
+    "static/media/sc6.PNG": "/ruwal-portfolio/static/media/sc6.d7d4036d859d9f4d87b4.PNG",
     "static/media/sc7.PNG": "/ruwal-portfolio/static/media/sc7.a03bf4c8700fd47d864a.PNG",
     "static/media/sc8.PNG": "/ruwal-portfolio/static/media/sc8.2725c54ad714954621a6.PNG",
     "static/media/sc10.PNG": "/ruwal-portfolio/static/media/sc10.c6cd6ef8f8d854521413.PNG",
@@ -22,11 +23,11 @@
     "static/media/logo.svg": "/ruwal-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ruwal-portfolio/index.html",
     "main.b4356b4e.css.map": "/ruwal-portfolio/static/css/main.b4356b4e.css.map",
-    "main.d7c00933.js.map": "/ruwal-portfolio/static/js/main.d7c00933.js.map",
+    "main.bb358e52.js.map": "/ruwal-portfolio/static/js/main.bb358e52.js.map",
     "787.1ed0c42c.chunk.js.map": "/ruwal-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b4356b4e.css",
-    "static/js/main.d7c00933.js"
+    "static/js/main.bb358e52.js"
   ]
 }
