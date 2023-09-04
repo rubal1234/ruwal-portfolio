@@ -14,6 +14,7 @@ import capture8 from '../Images/sc8.PNG'
 import capture9 from '../Images/sc9.PNG'
 import capture10 from '../Images/sc10.PNG'
 import capture11 from '../Images/sc11.PNG'
+import capture12 from '../Images/sc12.PNG'
 import ProjectList from './ProjectList'
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from 'react-responsive-carousel';
@@ -93,6 +94,10 @@ const Project = () => {
                     </div>
                     <div className='carousel-div'>
                         <img src={capture6} />
+                        <p className="legend">Step-3 of Booking Process</p>
+                    </div>
+                    <div className='carousel-div'>
+                        <img src={capture12} />
                         <p className="legend">Step-3 of Booking Process</p>
                     </div>
                     <div className='carousel-div'>

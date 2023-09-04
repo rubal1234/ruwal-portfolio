@@ -9,7 +9,7 @@ import Contact from './Contact';
 const Home = () => {
 
 const handleDownload = async() => {
-    fetch('RuwalCV.docx').then(response => {
+    fetch('RuwalCv.docx').then(response => {
         response.blob().then(blob => {
             const fileURL = window.URL.createObjectURL(blob);
             const currentDate = new Date();
